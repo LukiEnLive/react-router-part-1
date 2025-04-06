@@ -1,0 +1,18 @@
+input, select, button {
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+}
+
+button {
+    background-color: var(--primary);
+    color: var(--primary-text);
+    border: none;
+    cursor: pointer;
+}
+
+a {
+    color: var(--link);
+    cursor: pointer;
+}
